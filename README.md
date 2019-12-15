@@ -3,7 +3,7 @@ Wifi-TEA5767 Controller with optional OTA (Over The Air)-Update <br>
 'Simple' WebInterface<br>
 <br>
 Current problems:<br>
-Web server dies irregularly (UTime out. but port is open)<br>
+Web server dies irregularly (Time out. but port is open, Ping works)<br>
 It looks good on the phone. Not on the desktop PC. <br>
 <br>
 
