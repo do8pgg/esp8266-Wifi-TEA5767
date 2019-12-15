@@ -7,7 +7,8 @@ Web server dies irregularly (UTime out. but port is open)<br>
 It looks good on the phone. Not on the desktop PC. <br>
 <br>
 
-![on Desktop](https://raw.githubusercontent.com/petergeher/esp8266-Wifi-TEA5767/master/Screenshot_Desktop.png)
 ![on Mobile](https://raw.githubusercontent.com/petergeher/esp8266-Wifi-TEA5767/master/Screenshot-Mobile.jpg)
+![on Desktop](https://raw.githubusercontent.com/petergeher/esp8266-Wifi-TEA5767/master/Screenshot_Desktop.png)
+<br>
 
 
