@@ -1,5 +1,5 @@
 /*
-   Copyright (c) 2019 Peter Geher.  All rights reserved.
+   Copyright (c) 2020 Peter Geher.  All rights reserved.
    See the bottom of this file for the license terms.
    peter.geher.dev@nsa2go.de
 */
@@ -272,7 +272,7 @@ void loop() {
 
 
 /*
-   Copyright (c) 2019 Peter Geher
+   Copyright (c) 2020 Peter Geher
 
    This Code is free software; you can redistribute it and/or
    modify it under the terms of the GNU Lesser General Public
