@@ -1,7 +1,7 @@
 /*
-   Copyright (c) 2020 Peter Geher.  All rights reserved.
+   Copyright (c) 2020 Peter Siepe.  All rights reserved.
    See the bottom of this file for the license terms.
-   peter.geher.dev@nsa2go.de
+   do8pgg@do8pgg.de
 */
 
 /*
